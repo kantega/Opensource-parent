@@ -42,7 +42,7 @@
         <site>
             <id>opensource.kantega.no</id>
             <name>opensource.kantega.no</name>
-            <url>dav:http//opensource.kantega.no/sites/</url>
+            <url>dav:http://opensource.kantega.no/sites/</url>
         </site>
     </distributionManagement>
     
