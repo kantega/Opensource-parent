@@ -20,12 +20,12 @@
     <groupId>org.kantega.opensource-parent</groupId>
     <artifactId>opensource-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3</version>
     <name>Kantega opensource parent pom</name>
     <url>http://opensource.kantega.no/sites/</url>
 
     <scm>
-        <connection>scm:svn:https://opensource.kantega.no/svn/opensource-parent/trunk</connection>
+        <connection>scm:svn:https://opensource.kantega.no/svn/opensource-parent/tags/opensource-parent-1.3</connection>
     </scm>
 
     <distributionManagement>
