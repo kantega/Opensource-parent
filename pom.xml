@@ -25,7 +25,7 @@
     <url>http://opensource.kantega.no/sites/</url>
 
     <scm>
-        <connection>scm:svn:https://opensource.kantega.no/svn/opensource-parent/trunk</connection>
+        <connection>scm:git:git@gitlab.kantega.no:flyt-cms/opensource-parent.git</connection>
     </scm>
 
     <distributionManagement>
