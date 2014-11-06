@@ -20,13 +20,14 @@
     <groupId>org.kantega.opensource-parent</groupId>
     <artifactId>opensource-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.5-SNAPSHOT</version>
+    <version>1.5</version>
     <name>Kantega opensource parent pom</name>
     <url>http://opensource.kantega.no/sites/</url>
 
     <scm>
         <connection>scm:git:git@gitlab.kantega.no:flyt-cms/opensource-parent.git</connection>
-    </scm>
+      <tag>opensource-parent-1.5</tag>
+  </scm>
 
     <distributionManagement>
         <repository>
