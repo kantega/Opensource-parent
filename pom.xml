@@ -30,13 +30,13 @@
     </scm>
     <organization>
         <name>Kantega AS</name>
-        <url>http://kantega.no</url>
+        <url>https://kantega.no</url>
     </organization>
 
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
-            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
             <distribution>repo</distribution>
         </license>
     </licenses>
@@ -45,12 +45,12 @@
         <repository>
             <id>opensource.kantega.no</id>
             <name>opensource.kantega.no release repository</name>
-            <url>http://opensource.kantega.no/nexus/content/repositories/releases/</url>
+            <url>https://opensource.kantega.no/nexus/content/repositories/releases/</url>
         </repository>
         <snapshotRepository>
             <id>opensource.kantega.no</id>
             <name>opensource.kantega.no snapshot repository</name>
-            <url>http://opensource.kantega.no/nexus/content/repositories/snapshots/</url>
+            <url>https://opensource.kantega.no/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
@@ -62,7 +62,7 @@
         <repository>
             <id>nexus</id>
             <name>Kantega Maven Repository</name>
-            <url>http://opensource.kantega.no/nexus/content/groups/public/</url>
+            <url>https://opensource.kantega.no/nexus/content/groups/public/</url>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
@@ -70,7 +70,7 @@
         <repository>
             <id>snapshots</id>
             <name>Kantega Snapshots</name>
-            <url>http://opensource.kantega.no/nexus/content/groups/public-snapshots/</url>
+            <url>https://opensource.kantega.no/nexus/content/groups/public-snapshots/</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
@@ -86,7 +86,7 @@
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
-            <url>http://opensource.kantega.no/nexus/content/groups/public</url>
+            <url>https://opensource.kantega.no/nexus/content/groups/public</url>
         </pluginRepository>
     </pluginRepositories>
 
@@ -95,7 +95,7 @@
             <plugins>
                 <plugin>
                     <artifactId>maven-compiler-plugin</artifactId>
-                    <version>3.3</version>
+                    <version>3.8.1</version>
                     <configuration>
                         <source>1.8</source>
                         <target>1.8</target>
